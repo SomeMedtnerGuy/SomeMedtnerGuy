@@ -1,16 +1,13 @@
-## Hi there 👋
+## I do stuff.
 
-<!--
-**SomeMedtnerGuy/SomeMedtnerGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Comfortable with:
+- C.
 
-Here are some ideas to get you started:
+Learning right now:
+- C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other stuff I worked with, but either on a superficial level or in need of a refresher:
+- GDScript (Godot);
+- Python;
+- SQL;
+- HTML/CSS.

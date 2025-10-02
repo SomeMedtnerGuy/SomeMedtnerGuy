@@ -1,14 +1,19 @@
-Comfortable with:
-- C
+Languages with which I have worked the most:
+- C (Most comfortable)
+- TypeScript
 
-Learning right now:
+Also worked with:
 - C++
-- TypeScript/JavaScript
-- GitHub
-
-Other stuff I worked with, but either on a superficial level or in need of a refresher:
-- GDScript (Godot)
-- Python
-- SQL
+- GDScript
 - HTML/CSS
+- Python
+
+Touched on:
+- SQL
+- Lua
+
+Other tools used:
+- Git and GitHub
 - Qt
+- Godot
+- Docker
